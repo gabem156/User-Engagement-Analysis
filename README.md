@@ -24,10 +24,6 @@ Businesses need to understand customer engagement patterns to improve retention,
 - Engagement KPIs
 - Feature usage analysis
 
-## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
-
 ## Key Insights
 - High engagement users showed stronger retention rates
 - User activity peaked during specific periods
